@@ -1,4 +1,4 @@
-# Multithreaded-C-Backup-Server
+# Multithreaded-CPP-Backup-Server
 
 The server runs in stateless protocol and can backup files up to 4GB each. (and even more if wanted)\
 I wrote the client in Python and used Boost library for networking.\
