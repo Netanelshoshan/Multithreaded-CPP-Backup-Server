@@ -1,6 +1,6 @@
 # Multithreaded-C-Backup-Server
 
-My server runs in stateless protocol and can backup files up to 4GB each. (and even more if wanted)\
+The server runs in stateless protocol and can backup files up to 4GB each. (and even more if wanted)\
 I wrote the client in Python and used Boost library for networking.\
 \
 To compile the server, run:\
